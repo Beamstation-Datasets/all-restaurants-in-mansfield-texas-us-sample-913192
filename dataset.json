@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Mansfield, Texas. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Mansfield, Texas, US",
-  "export_job_id": "105a9b01-08de-4ba0-bb8c-a410da56e70a",
+  "export_job_id": "972a2417-aa90-4580-aba6-94b807296268",
   "github_org": "Beamstation-Datasets",
   "id_short": 913192,
   "location_name": "Mansfield",
   "location_type": "city",
   "repo_name": "all-restaurants-in-mansfield-texas-us-sample-913192",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/913192/beamstation_913192_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 12.12,
+  "sample_pct": 9.9,
   "sample_records": 20,
   "sample_sha256": "3be140b17f42fdc0306aa2cc976a1446fc10c2c8261dd199267572d6038d0692",
   "sample_size_bytes": 88883,
-  "total_records": 165,
-  "updated_at": "2026-03-31T16:22:31.572405+00:00"
+  "total_records": 202,
+  "updated_at": "2026-04-14T17:10:02.878306+00:00"
 }
