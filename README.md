@@ -1,6 +1,6 @@
 # All Restaurants in Mansfield, Texas, US
 
-> Free BeamStation sample export with 21 rows and masked direct-contact fields.
+> Free BeamStation sample export with 22 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `913192` |
 | Location | Mansfield |
 | Category | Restaurants |
-| Full dataset size | 212 records |
-| Free sample size | 21 records (9.91%) |
-| Last export | 2026-04-28T20:01:37.396437+00:00 |
+| Full dataset size | 225 records |
+| Free sample size | 22 records (9.78%) |
+| Last export | 2026-05-07T10:18:15.440044+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-mansfield-texas-us-sample-913192/releases/download/sample-latest/beamstation_913192_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
