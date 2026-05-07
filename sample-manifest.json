@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e1a8f8e7-e565-4c79-b310-0c9f5cc1a37b",
+  "export_job_id": "0ceff7c8-cc73-4421-ad1e-6a8b08ce46a8",
   "id_short": 913192,
-  "published_at": "2026-04-29T07:05:00Z",
+  "published_at": "2026-05-07T19:10:53Z",
   "repo_name": "all-restaurants-in-mansfield-texas-us-sample-913192",
   "sample_asset_name": "beamstation_913192_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/913192/beamstation_913192_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 21,
-  "sample_sha256": "e6c256a15ce92ec002c01708318ade60e356efc38661acdf9d3ed2ba417c6073",
-  "sample_size_bytes": 76993,
-  "total_records": 212
+  "sample_records": 22,
+  "sample_sha256": "b31538c09cd00a82a517f31e79e2fc0ee193a9f302c43ededb4ab299a3b9c1d8",
+  "sample_size_bytes": 97934,
+  "total_records": 225
 }
